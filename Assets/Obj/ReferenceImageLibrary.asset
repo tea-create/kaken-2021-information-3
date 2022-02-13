@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5392371753845358654
+  m_GuidHigh: 8901913099741118592
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5735285743296302781
+      m_GuidHigh: 4831140766075838611
+    m_SerializedTextureGuid:
+      m_GuidLow: 11751061322927766579
+      m_GuidHigh: 13640251809205608312
+    m_Size: {x: 10, y: 10}
+    m_SpecifySize: 1
+    m_Name: mspaint
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5527553532654651995
+      m_GuidHigh: 11410085107530724268
+    m_SerializedTextureGuid:
+      m_GuidLow: 15682927581273774755
+      m_GuidHigh: 10463031402815003051
+    m_Size: {x: 10, y: 10}
+    m_SpecifySize: 1
+    m_Name: nanoka
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5181501888218233660
+      m_GuidHigh: 13849329345783892127
+    m_SerializedTextureGuid:
+      m_GuidLow: 15651352008525443444
+      m_GuidHigh: 10484374607722108074
+    m_Size: {x: 10, y: 10}
+    m_SpecifySize: 1
+    m_Name: se-ma-
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5614246844768171861
+      m_GuidHigh: 654931593577523110
+    m_SerializedTextureGuid:
+      m_GuidLow: 9566870301754299192
+      m_GuidHigh: 917552091068142283
+    m_Size: {x: 10, y: 10}
+    m_SpecifySize: 1
+    m_Name: ryoga
+    m_Texture: {fileID: 0}
